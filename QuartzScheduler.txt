@@ -1,0 +1,3 @@
+Quartz is used to Schedule the classes as per the requirement.
+It could be a Trigger which causes the one time trigger of a scheduled program or it could be a cron to do the same at sepcified timings.
+My project aims to make understand a basic Scheduler/Cron program using the Quartz API.
